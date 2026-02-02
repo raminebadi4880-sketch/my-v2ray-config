@@ -5,7 +5,7 @@
       "remarks": "US-Test",
       "address": "104.21.44.185",
       "port": 443,
-      "uuid": "11111111-1111-1111-1111-111111111111",
+      "uuid": "6b7437d1-b6e2-44ea-ab70-979ea56d7177",
       "network": "ws",
       "ws_path": "/",
       "tls": true,
