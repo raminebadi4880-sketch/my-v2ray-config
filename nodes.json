@@ -1,0 +1,18 @@
+{
+  "nodes": [
+    {
+      "protocol": "vless",
+      "remarks": "US-Test",
+      "address": "104.21.44.185",
+      "port": 443,
+      "uuid": "11111111-1111-1111-1111-111111111111",
+      "network": "ws",
+      "ws_path": "/",
+      "tls": true,
+      "metadata": {
+        "country": "US",
+        "score": 100
+      }
+    }
+  ]
+}
